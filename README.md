@@ -3,7 +3,7 @@
 > **Used Libraries** <br> *pytesseract* <br> *OpenCV*
 <br>
 
-Through the OSD analysis, it was possible to create a function capable of highlighting a search word within a text image.
+Through the OSD analysis, it was possible to create a function capable of highlighting the search word within a text image.
 <br>
 In the example below, the searched word was "Kurzweil". This wikipedia article is the OCR article.
 
